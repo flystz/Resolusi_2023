@@ -5,3 +5,6 @@ DETAIL RESOLUSI TIAP POINT
 - Ikut MSIB
   * buat SR
   * daftar akun msib
+- Bisa GitHub
+ * nonton video youtube
+ * nanya sama orang
